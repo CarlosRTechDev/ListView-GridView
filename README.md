@@ -6,3 +6,6 @@ Example of using ListView and GridView
 
 ## View of the GridView
 ![image](https://user-images.githubusercontent.com/76266019/206001399-16ad7cbf-2f38-418d-a86a-2a07fd3dafba.png)
+
+
+* Click on menu bar
